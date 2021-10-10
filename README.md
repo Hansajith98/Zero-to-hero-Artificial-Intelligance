@@ -12,9 +12,9 @@
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/Hansajith98" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/Hansajith98/hacktoberfest2021/pulls"><img src="https://img.shields.io/github/issues-pr/Zero-to-hero-Artificial-Intelligance/Zero-to-hero-Artificial-Intelligance" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Hansajith98/hacktoberfest2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Hansajith98/hacktoberfest2021?color=2b9348"></a>
-<a href="https://github.com/Hansajith98/hacktoberfest2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Hansajith98/hacktoberfest2021?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Hansajith98/Zero-to-hero-Artificial-Intelligance/pulls"><img src="https://img.shields.io/github/issues-pr/Hansajith98/Zero-to-hero-Artificial-Intelligance" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Hansajith98/Zero-to-hero-Artificial-Intelligance/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Hansajith98/Zero-to-hero-Artificial-Intelligance?color=2b9348"></a>
+<a href="https://github.com/Hansajith98/Zero-to-hero-Artificial-Intelligance/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Hansajith98/hacktoberfest2021?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
