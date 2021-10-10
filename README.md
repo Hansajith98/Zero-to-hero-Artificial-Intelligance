@@ -44,8 +44,15 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 
 * Machine Learning
   * Supervised Machine Learning
-    * Image Classification
-    * Market Prediction
+    * Regression
+      * Linear Regression
+      * Poisson Regression
+      * Support Vector Regression
+    * Classificatin
+      * Logistic Regression
+      * Neural Network
+      * Decision Tree
+      * Naive Bayes Classifier
   * Unsupervised Machine Learning
     * Clustering
     * High Dimension Data
@@ -73,6 +80,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 | Supervised Machine Learning | It is known as supervised learning when we train the algorithm by explicitly supplying the labels. The supplied dataset is used to train the model in this sort of method. The model is shaped like this. Y=f(X) where x is the input variable, y is the output variable, and f(X) is the hypothesis. | [Tutorials Point](https://www.tutorialspoint.com/artificial_neural_network/artificial_neural_network_supervised_learning.htm) |
+| Regression | The output variable in regression is numerical(continuous), which means we train the hypothesis(f(x)) to produce continuous output(y) given the input data (x). The regression approach is employed in the prediction of quantities, sizes, values, and other things since the output is influenced by the real number. | [projecctpro](https://www.projectpro.io/data-science-in-r-programming-tutorial/linear-regression-tutorial) |
 
 ### Deep Learning
 
