@@ -12,9 +12,9 @@
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/Hansajith98" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/Hansajith98/hacktoberfest2021/pulls"><img src="https://img.shields.io/github/issues-pr/hacktoberfest2021/hacktoberfest2021" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Hansajith98/hacktoberfest2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Hansajith98/hacktoberfest2021?color=2b9348"></a>
-<a href="https://github.com/Hansajith98/hacktoberfest2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Hansajith98/hacktoberfest2021?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Hansajith98/Zero-to-hero-Artificial-Intelligance/pulls"><img src="https://img.shields.io/github/issues-pr/Hansajith98/Zero-to-hero-Artificial-Intelligance" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Hansajith98/Zero-to-hero-Artificial-Intelligance/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Hansajith98/Zero-to-hero-Artificial-Intelligance?color=2b9348"></a>
+<a href="https://github.com/Hansajith98/Zero-to-hero-Artificial-Intelligance/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Hansajith98/hacktoberfest2021?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
@@ -44,8 +44,15 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 
 * Machine Learning
   * Supervised Machine Learning
-    * Image Classification
-    * Market Prediction
+    * Regression
+      * Linear Regression
+      * Poisson Regression
+      * Support Vector Regression
+    * Classificatin
+      * Logistic Regression
+      * Neural Network
+      * Decision Tree
+      * Naive Bayes Classifier
   * Unsupervised Machine Learning
     * Clustering
     * High Dimension Data
@@ -73,6 +80,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 | Supervised Machine Learning | It is known as supervised learning when we train the algorithm by explicitly supplying the labels. The supplied dataset is used to train the model in this sort of method. The model is shaped like this. Y=f(X) where x is the input variable, y is the output variable, and f(X) is the hypothesis. | [Tutorials Point](https://www.tutorialspoint.com/artificial_neural_network/artificial_neural_network_supervised_learning.htm) |
+| Regression | The output variable in regression is numerical(continuous), which means we train the hypothesis(f(x)) to produce continuous output(y) given the input data (x). The regression approach is employed in the prediction of quantities, sizes, values, and other things since the output is influenced by the real number. | [projecctpro](https://www.projectpro.io/data-science-in-r-programming-tutorial/linear-regression-tutorial) |
 
 ### Deep Learning
 
