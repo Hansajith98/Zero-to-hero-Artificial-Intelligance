@@ -61,7 +61,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
     * Generative Models
   * Reinforcement Machine Learning
   * Semi-supervised Machine Learning
-* Deep Learning
+* [Deep Learning](#deep-learning)
   * Feed Forward Neural Network
   * Radial Basis Function Neural Network
   * Multi-layer Perceptron
@@ -69,7 +69,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
   * Recurrent Neural Network
   * Modular Neural Network
   * Sequence to Sequence Model 
-* Neural Letworks
+* [Neural Networks](#neural-networks)
   * Feed Forward Neural Network
   * Radial Basis Function Neural Network
   * Multi-layer Perceptron
@@ -90,7 +90,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 | ----- | ----------- |---------------------------|
 |  |  |  |
 
-## Neural Letworks
+## Neural Networks
 
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
