@@ -72,7 +72,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
-|  |  |  |
+| Supervised Machine Learning | It is known as supervised learning when we train the algorithm by explicitly supplying the labels. The supplied dataset is used to train the model in this sort of method. The model is shaped like this. Y=f(X) where x is the input variable, y is the output variable, and f(X) is the hypothesis. | [Tutorials Point](https://www.tutorialspoint.com/artificial_neural_network/artificial_neural_network_supervised_learning.htm) |
 
 ### Deep Learning
 
