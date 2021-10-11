@@ -25,7 +25,7 @@
 
 ## How to contribute - 
 1. Fork this repository. If already fork, plese considering fetch upstream before make PR.
-2. Select one topic that added in readme.md [Tables of content](## Tables of content) and make sure no ane add any issue for that topic or no one already contribute to that topic.
+2. Select one topic that added in readme.md [Tables of content](#Tables-of-content) and make sure no ane add any issue for that topic or no one already contribute to that topic.
 3. Create new issue with what topic you choosed.
 4. go to reposiotory that you forked in your account, then edit readme.md file and add verified details to topic you choose. Please follow of presented table format.
 5. Commit changes with appropriate topic and description what you have done.
