@@ -41,8 +41,10 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Artificial Intelligance
+## Please read the [Guidelines for contributors](./contribution.md)
+## Tables of content
 
-* Machine Learning
+* [Machine Learning](#machine-learning)
   * Supervised Machine Learning
     * Regression
       * Linear Regression
@@ -59,7 +61,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
     * Generative Models
   * Reinforcement Machine Learning
   * Semi-supervised Machine Learning
-* Deep Learning
+* [Deep Learning](#deep-learning)
   * Feed Forward Neural Network
   * Radial Basis Function Neural Network
   * Multi-layer Perceptron
@@ -67,7 +69,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
   * Recurrent Neural Network
   * Modular Neural Network
   * Sequence to Sequence Model 
-* Neural Letworks
+* [Neural Networks](#neural-networks)
   * Feed Forward Neural Network
   * Radial Basis Function Neural Network
   * Multi-layer Perceptron
@@ -75,7 +77,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
   * Recurrent Neural Network
   * Modular Neural Network
 
-### Machine Learning
+## Machine Learning
 
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
@@ -83,13 +85,13 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 | Regression | The output variable in regression is numerical(continuous), which means we train the hypothesis(f(x)) to produce continuous output(y) given the input data (x). The regression approach is employed in the prediction of quantities, sizes, values, and other things since the output is influenced by the real number. | [projecctpro](https://www.projectpro.io/data-science-in-r-programming-tutorial/linear-regression-tutorial) |
 | Linear Regression | The most basic type of regression method. In this case, we have two variables: one independent, which is the predicted output, and one dependent, which is the feature. The relationship between these two variables is believed to be linear, which means that a straight line may be used to divide them. The goal of this function is to find the line that divides these two variables with as little error as feasible. The error is calculated as the total of the Euclidean distances between the points and the line.When there is just one independent variable, it is referred to as simple linear regression and is denoted by:Y = b0+b1x1+c Multiple linear regression is used when there is more than one independent variable. and is provided by:Y =bo+b1x1+b2x2+b3x3... In all equations above, y is the dependent variable and x is the independent variable. | [Try out this tutorial](https://youtu.be/zPG4NjIkCjc) |
 
-### Deep Learning
+## Deep Learning
 
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 |  |  |  |
 
-### Neural Letworks
+## Neural Networks
 
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
