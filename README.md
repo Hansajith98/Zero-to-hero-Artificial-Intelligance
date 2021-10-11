@@ -24,9 +24,14 @@
 
 
 ## How to contribute - 
-+ create your own brief description to related remaining topics.
-+ Feel free to add more topics related to Machine Learning domain.
-+ Make a valid Pull Requiest.
+1 Fork this repository. If already fork, plese considering fetch upstream before make PR.
+2 Select one topic that added in readme.md [Tables of content](## Tables of content) and make sure no ane add any issue for that topic or no one already contribute to that topic.
+3 Create new issue with what topic you choosed.
+4 go to reposiotory that you forked in your account, then edit readme.md file and add verified details to topic you choose. Please follow of presented table format.
+5 Commit changes with appropriate topic and description what you have done.
+6 Make PR( Pull Request ) to [original repository](https://github.com/Hansajith98/Zero-to-hero-Artificial-Intelligance) with Dev branch.
+7 That's all and, after accepting your PR, your are eligible with one PR for the hacktoberfest 2021.
+
 
 #### You can find information from this [link](https://www.educba.com/) or on yourself.
 
