@@ -104,4 +104,6 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
+| Radial Basis Function Neural Network | Radial basis function (RBF) networks are a commonly used type of artificial neural network for function approximation problems. Radial basis function networks are distinguished from other neural networks due to their universal approximation and faster learning speed. An RBF network is a type of feed forward neural network composed of three layers, namely the input layer, the hidden layer and the output layer. | [Introduction to Radial Basis Function Neural Network](https://www.sciencedirect.com/topics/engineering/radial-basis-function-network) |
 | Feed Forward Neural Network | MLPs, or multilayer perceptrons, are the quintessential deep learning models. A feedforward network's purpose is to approximate f*. So, a classifier's output is y = f*(x). A feedforward network learns the parameters that result in the best function approximation. | [Introduction for Feed Forward Neural Network ](https://www.youtube.com/watch?v=9zCNIXftgkI) |
+
