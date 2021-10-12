@@ -7,7 +7,7 @@
 <h1 align="center"> Hacktoberfest 2021 🎉</h1>
 
 <div align="center">
-  
+
 <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/Hansajith98" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
@@ -23,7 +23,7 @@
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
 
-## How to contribute - 
+## How to contribute -
 1. Fork this repository. If already fork, plese considering fetch upstream before make PR.
 2. Select one topic that added in readme.md [Tables of content](#Tables-of-content) and make sure no ane add any issue for that topic or no one already contribute to that topic.
 3. Create new issue with what topic you choosed. If there already issues, comment that issue you are taking.
@@ -73,7 +73,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
   * Convolutinal Neural Network
   * Recurrent Neural Network
   * Modular Neural Network
-  * Sequence to Sequence Model 
+  * Sequence to Sequence Model
 * [Neural Networks](#neural-networks)
   * Feed Forward Neural Network
   * Radial Basis Function Neural Network
@@ -104,5 +104,4 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
-|  |  |  |
-
+| Feed Forward Neural Network | MLPs, or multilayer perceptrons, are the quintessential deep learning models. A feedforward network's purpose is to approximate f*. So, a classifier's output is y = f*(x). A feedforward network learns the parameters that result in the best function approximation. | [Introduction for Feed Forward Neural Network ](https://www.youtube.com/watch?v=9zCNIXftgkI) |
