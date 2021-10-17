@@ -7,7 +7,7 @@
 <h1 align="center"> Hacktoberfest 2021 🎉</h1>
 
 <div align="center">
-  
+
 <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/Hansajith98" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
@@ -23,7 +23,7 @@
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
 
-## How to contribute - 
+## How to contribute -
 1. Fork this repository. If already fork, plese considering fetch upstream before make PR.
 2. Select one topic that added in readme.md [Tables of content](#Tables-of-content) and make sure no ane add any issue for that topic or no one already contribute to that topic.
 3. Create new issue with what topic you choosed. If there already issues, comment that issue you are taking.
@@ -73,7 +73,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
   * Convolutinal Neural Network
   * Recurrent Neural Network
   * Modular Neural Network
-  * Sequence to Sequence Model 
+  * Sequence to Sequence Model
 * [Neural Networks](#neural-networks)
   * Feed Forward Neural Network
   * Radial Basis Function Neural Network
@@ -93,6 +93,8 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 | Support Vector Regression | As the name implies, Support Vector Regression is a regression algorithm that supports both linear and non-linear regressions. This approach is based on the Support Vector Machine idea. SVR varies from SVM in that SVM is a classifier that predicts discrete categorical labels, whereas SVR is a regressor that predicts continuous ordered variables.The goal of basic regression is to decrease the error rate, however the goal of SVR is to fit the error within a particular threshold, which means that the task of SVR is to approximate the best value within a given margin termed ε- tube. | [Youtube Tutorial for Support Vector Machine](https://youtu.be/-EjQWqHMsog) |
 | Classificatin | The output variable in classification is discrete. To put it another way, we train the hypothesis(f(x)) to produce discrete output(y) for the input data (x). A class can also be used to describe the output. Using the previous example of home pricing, instead of finding the precise amount, we can use classification to forecast whether the house price will be above or below. As a result, we have two classes: one for when the price is above and one for when the price is below. Classification is used in speech recognition, image classification, NLP, etc. | [Calssification Tuutorial in IBM deveoper site](https://developer.ibm.com/tutorials/learn-classification-algorithms-using-python-and-scikit-learn/) |
 | Logistic Regression | It is a categorization algorithm of some sort. It is used to calculate the discrete value given the independent variables. It aids in determining the likelihood of occurrence of a function by employing a logit function. The hypothesis of these approaches' output(y) ranges from 0 to 1.A logistic regression function is given by:`p=1/(1+e^-y)` where y is the equation on line. The value is scaled between 0 and 1 as a result of this function. A sigmoid function is another name for this function. | [YouTube tutorial for Logistic Regression ](https://youtu.be/yIYKR4sgzI8) |
+| Decision Tree | The decision tree creates classification or regression models as tree structures. It subdivides the dataset and assigns a judgment to it. We obtain a tree with decision and leaf nodes. One or more decision nodes lead to leaf nodes. A leaf node represents a categorization or choice. It approximates the outcome using the if-then-else rule. The more complicated the rules, the better the model. | [Documenatation tutorial-hackerearth.com](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/) |
+| Naïve  Bayes Classifier | When it comes to classification tasks, a Naïve  Bayes classifier is a probabilistic machine learning model that is used to make predictions. The Bayes theorem is at the heart of the classifier, and that is what it does. Mathematical function is `P(A|B) = P(B|A)P(A) / P(B)` | [Documentaion Tutorial-towardsdatascience.com](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c) |
 
 ## Deep Learning
 
@@ -104,5 +106,6 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
-|  |  |  |
+| Radial Basis Function Neural Network | Radial basis function (RBF) networks are a commonly used type of artificial neural network for function approximation problems. Radial basis function networks are distinguished from other neural networks due to their universal approximation and faster learning speed. An RBF network is a type of feed forward neural network composed of three layers, namely the input layer, the hidden layer and the output layer. | [Introduction to Radial Basis Function Neural Network](https://www.sciencedirect.com/topics/engineering/radial-basis-function-network) |
+| Feed Forward Neural Network | MLPs, or multilayer perceptrons, are the quintessential deep learning models. A feedforward network's purpose is to approximate f*. So, a classifier's output is y = f*(x). A feedforward network learns the parameters that result in the best function approximation. | [Introduction for Feed Forward Neural Network ](https://www.youtube.com/watch?v=9zCNIXftgkI) |
 
