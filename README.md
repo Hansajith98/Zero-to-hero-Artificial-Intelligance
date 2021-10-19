@@ -100,7 +100,7 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 
 | Topic  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
-|  |  |  |
+| Multi layer perceptron (MLP) | MLP is a complement to feed forward neural network. As shown in Fig. 3, it has three layers: input, output, and hidden. The input layer receives the processed signal. The output layer performs tasks like prediction and categorization. The MLP's true computational engine is an arbitrary number of hidden layers inserted between the input and output layers. A MLP is a feed forward network with data flowing from input to output layer. The MLP's neurons are taught using back propagation learning. MLPs may estimate any continuous function and handle nonlinear problems. MLP is used for pattern recognition, prediction, and approximation. | [How MLP works](https://www.youtube.com/watch?v=zqoNVjgJqqE) |
 
 ## Neural Networks
 
@@ -108,4 +108,3 @@ Keep Connect With Me [Deshitha Hansajith](https://www.linkedin.com/in/deshitha-h
 | ----- | ----------- |---------------------------|
 | Radial Basis Function Neural Network | Radial basis function (RBF) networks are a commonly used type of artificial neural network for function approximation problems. Radial basis function networks are distinguished from other neural networks due to their universal approximation and faster learning speed. An RBF network is a type of feed forward neural network composed of three layers, namely the input layer, the hidden layer and the output layer. | [Introduction to Radial Basis Function Neural Network](https://www.sciencedirect.com/topics/engineering/radial-basis-function-network) |
 | Feed Forward Neural Network | MLPs, or multilayer perceptrons, are the quintessential deep learning models. A feedforward network's purpose is to approximate f*. So, a classifier's output is y = f*(x). A feedforward network learns the parameters that result in the best function approximation. | [Introduction for Feed Forward Neural Network ](https://www.youtube.com/watch?v=9zCNIXftgkI) |
-
